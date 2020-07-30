@@ -277,7 +277,7 @@ func main() {
 			continue
 		}
 		if input == "help" {
-			fmt.Printf("Справка о калькуляторе: Домашнее задание 4 2020 года")
+			fmt.Printf("Справка о программе Калькулятор: Калькулятор выполняет +,-,*,/. \n Так же sin,cos,tan,arctan,arcsin,arccos. \n Высчитывается max и min.\n  При вводе exit программа завершится ")
 			continue
 		}
 		if input == "exit" {
